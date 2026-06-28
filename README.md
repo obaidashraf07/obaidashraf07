@@ -199,3 +199,10 @@ Current focus:
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/obaidashraf07/obaidashraf07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
