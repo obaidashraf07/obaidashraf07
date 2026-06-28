@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Obaid Ashraf</h1>
+<h1 align="center">Hi , I'm Obaid Ashraf</h1>
 
 <h3 align="center">
 Data Science | Machine Learning
@@ -102,18 +102,20 @@ Data Science | Machine Learning
 
 # 🌱 Currently Learning
 
+I am continuously improving my Data Science and Machine Learning skills with the goal of becoming an expert Data Scientist.
+
+Current focus:
+
 - Advanced Python for Data Science
+- Machine Learning
 - SQL for Data Analytics
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Machine Learning Algorithms
 - Model Evaluation & Hyperparameter Tuning
-- Time Series Forecasting
-- Power BI for Business Intelligence
-- Model Deployment using Flask & FastAPI
-- Docker for ML Applications
-- MLOps Fundamentals
-
+- Power BI
+- Flask & FastAPI
+- Docker
+- MLOps
 ---
 
 # 📂 Industry-Level Future Projects
