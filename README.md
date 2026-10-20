@@ -14,7 +14,7 @@ Data Science | Machine Learning
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - BS Computer Science Student from Pakistan
 - Passionate about Data Science and Machine Learning
@@ -26,7 +26,7 @@ Data Science | Machine Learning
 
 ---
 
-# 🛠️ Skills & Tools
+#  Skills & Tools
 
 ### Programming Languages
 
@@ -100,7 +100,7 @@ Data Science | Machine Learning
 - Cross Validation
 - Time Series Forecasting
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 I am continuously improving my Data Science and Machine Learning skills with the goal of becoming an expert Data Scientist.
 
@@ -118,7 +118,7 @@ Current focus:
 - MLOps
 ---
 
-# 📂 Industry-Level Future Projects
+#  Industry-Level Future Projects
 
 - Customer Churn Prediction System
 - Credit Risk Assessment & Loan Default Prediction
@@ -133,7 +133,7 @@ Current focus:
 
 
 
-# 🎯 Fun Fact
+#  Fun Fact
 
 - I enjoy transforming raw data into meaningful insights.
 - I enjoy building end-to-end Data Science projects.
@@ -142,7 +142,7 @@ Current focus:
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
